@@ -13,6 +13,6 @@ My goal is to acquire knowledge to be able to create better and better solutions
 
 ### Acess my blog
 
-<a href="http://strangesan.blospot.com">Strange-san's blog</a>
+<a href="http://strangesan.blogspot.com">Strange-san's blog</a>
 
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
