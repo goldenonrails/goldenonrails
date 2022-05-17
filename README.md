@@ -12,10 +12,14 @@ Meu maior foco é no back-end, mas também gosto de testar o front-end.
 Além disso, gosto de testar alguns algoritmos com C++.
 ```
 
-- JavaScript
-- React
-- PHP
-- C/C++
+- <b>JavaScript</b>
+-- Estudando <b>React</b>
+
+- <b>PHP</b>
+-- Back-end em geral
+
+- <b>C/C++</b>
+-- Algoritmos
 
 ## Alguns assuntos que gosto
 
