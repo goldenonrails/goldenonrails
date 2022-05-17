@@ -7,12 +7,22 @@ Meu nome é Adrian e aqui você encontrará alguns dos meus projetos!
 ```
 ## Tenho conhecimentos nas seguintes linguagens de programação
 
+```
+Meu maior foco é no back-end, mas também gosto de testar o front-end.
+Além disso, gosto de testar alguns algoritmos com C++.
+```
+
+- JavaScript
 - React
 - PHP
 - C/C++
-- JavaScript
 
-## Além disso, alguns assuntos que gosto são
+## Alguns assuntos que gosto
+
+```
+Acho interessante como podemos fazer quase tudo com números na programação.
+Encontramos bons exemplos disso na criação de games, na história, etc.
+```
 
 - Algoritmos e estruturas de dados
 - História da computação e da internet
@@ -20,6 +30,11 @@ Meu nome é Adrian e aqui você encontrará alguns dos meus projetos!
 - Linux
 
 ## Linguagens e ferramentas para aprender até o final do ano (lembrete para mim)
+
+```
+Alguns objetivos para mim nesse ano
+(usando o github com lembrete)
+```
 
 - C#
 - Netfly
