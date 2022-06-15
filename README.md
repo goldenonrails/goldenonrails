@@ -11,10 +11,8 @@ Este repositório contém meus projetos pessoais de maior relevancia.
 
 - PHP
 -- Integração com MySQL
-
 - JavaScript (ReactJS e Redux)
 -- GUI's interativas
-
 - CSS3
 -- Designs personalizados
 
